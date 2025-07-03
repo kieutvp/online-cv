@@ -8,279 +8,165 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: Trương Vũ Phương Kiều
+  tagline: Trưởng Phòng Dịch Vụ Khách Hàng
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  email: truongvuphuongkieu@gmail.com
+  phone: 0975620520
+  timezone: Asia/Bangkok # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
-  gitlab:
-  bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: # Please include your full Mastodon link here.
-  hackerrank: # Please provide your HackerRank username.
-  leetcode: # Please provide your LeetCode username.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  website: https://kieutvp.github.io/online-cv/ # Include the full website URL, including "http://" or "https://".
 
   languages:
-    title: Languages
+    title: Ngôn ngữ
     info:
-    - idiom: English
-      level: Native
+    - idiom: Tiếng Việt
+      level: Tiếng mẹ đẻ
 
-    - idiom: French
-      level: Professional
+    - idiom: Tiếng Anh
+      level: Giao Tiếp Tốt Và Đọc Hiểu Tài Liệu Chuyên Ngành
 
-    - idiom: Spanish
-      level: Professional
+    - idiom: Tiếng Trung
+      level: Sơ cấp
 
   interests:
-    title: Interests
+    title: Sở thích
     info:
-    - item: Climbing
+    - item: Du lịch
       link:
 
 
-    - item: Snowboarding
+    - item: Nghe nhạc
       link:
 
 
-    - item: Cooking
+    - item: Nấu ăn
       link:
 
 
 career-profile:
-  title: Career Profile
+  title: Mục Tiêu Nghề Nghiệp
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Với hơn 17 năm kinh nghiệm trong lĩnh vực tài chính – chứng khoán, trong đó có 7 năm đảm nhiệm vị trí 
+    Trưởng phòng Dịch vụ khách hàng, tôi mong muốn được gia nhập một công ty chứng khoán uy tín để tiếp tục 
+    phát triển kỹ năng nghiệp vụ, kinh nghiệm, xây dựng đội ngũ dịch vụ khách hàng chuyên nghiệp, nâng cao 
+    trải nghiệm nhà đầu tư và góp phần tăng trưởng bền vững cho doanh nghiệp.
 education:
-  title: Education
+  title: Học Vấn
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Cử Nhân Tài Chính Doanh Nghiệp
+    university: Đại Học Kinh Tế TP. Hồ Chí Minh
+    time: 2010 - 2012
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+    
+  - degree: Cử nhân Quản Trị Du Lịch-Khách Sạn
+    university: Đại học Ngoại Ngữ- Tin Học TP. HCM (HUFLIT)
+    time: 2003-2007
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
 
 experiences:
-  title: Experiences
+  title: Kinh Nghiệm
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Trưởng Phòng DVKH PGD Cách Mạng Tháng Tám
+    time: 07/2018 – 05/2025
+    company: Công ty Cổ phần Chứng khoán SSI
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+      Quản lý mọi nghiệp vụ và hoạt động của phòng dịch vụ khách hàng cho phòng giao dịch 
+        - Quản lý đội ngũ 8 nhân viên DVKH tại PGD CMT8
+        - Kiểm soát tuân thủ tất cả các quy trình nghiệp vụ thuộc Phòng DVKH, bao gồm cả kênh online và tại quầy: Thanh toán, Đóng/Mở Tài khoản, Quản lý cập nhật thông tin Tổ chức/Cá nhân trong nước, nước ngoài... Tiếp nhận lệnh, xác nhận lệnh, Lưu ký , Đăng ký, Thực hiện quyền chứng khoán...
+        - Đào tạo nghiệp vụ và phát triển nhân sự. Cập nhật quy trình nghiệp vụ mới, phân bổ công việc, phát triển đội ngũ nhân viên làm việc hiệu quả
+        - Xây dựng hệ thống, rà soát quy trình, góp ý đề xuất để cải thiện hoạt động nghiệp vụ, tuân thủ quy trình, quy định...hướng tới xây dựng quy trình hiệu quả, sát thực tế, nâng cao trải nghiệm khách hàng
+        - Phối hợp các bộ phận liên quan xử lý phát sinh nếu có: cung cấp chứng từ UBCK, xử lý khiếu nại khách hàng, review Hợp đồng, soạn các công văn phản hồi đối tác,...
+        - Tham gia test hệ thống, sản phẩm mới, migrate đối chiếu dữ liệu chuyển hệ thống,...
+        - Tổng hợp doanh số Môi giới hàng tháng cho nhân sự tính hoa hồng Môi giới. Hỗ trợ khối kinh doanh, bộ phận quản trị Môi giới liên quan
+        - Thực hiện các báo cáo liên quan (tuần, tháng, quý,..) theo yêu cầu Giám đốc chi nhánh và các bộ phận liên quan
+        
+  - role: Chuyên Viên Cao Cấp DVKH CN Nguyễn Công Trứ
+    time: 01/2008 – 07/2018
+    company: Công ty cổ phần chứng khoán SSI
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Thực hiện các nghiệp vụ dịch vụ khách hàng và hỗ trợ khách hàng tại quầy giao dịch
+        - Hỗ trợ giao dịch, mở/đóng tài khoản, xin cấp trading code, tư vấn sử dụng sản phẩm cho nhà đầu tư cá nhân và tổ chức trong nước và nước ngoài
+        - Thực hiện các nghiệp vụ: Thanh toán, Lưu ký, Đăng ký, Thực hiện quyền, ...
+        - Tiếp nhận, giải đáp, xử lý kịp thời các yêu cầu và phản hồi của khách hàng, xác thực thông tin khách hàng đúng quy định. Thực hiện trực tiếp các công việc liên quan đến cung cấp sản phẩm dịch vụ cho khách hàng
+        - Hỗ trợ Trưởng bộ phận trong việc cập nhật, đào tạo nghiệp vụ, phát triễn nhân sự. Rà soát , góp ý cải thiện hoạt động nghiệp vụ
+        - Các công việc khác theo sự phân công của Trưởng bộ phận
 
 certifications:
-  title: Certifications
+  title: Chứng Chỉ Nghề Nghiệp
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
+  - name: CC Hành nghề Chứng Khoán Cơ Bản
+    start: 2023
+    end: 2023
+    organization: Ủy Ban Chứng Khoán Nhà Nước
+    credentialid:
+    credentialurl:
+    credentialname: Ủy Ban Chứng Khoán Nhà Nước
     details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
+    
+  - name: CC Hành nghề Chứng Khoán Phái Sinh
+    start: 2023
+    end: 2023
+    organization: Ủy Ban Chứng Khoán Nhà Nước
+    credentialid:
+    credentialurl:
+    credentialname: Ủy Ban Chứng Khoán Nhà Nước
     details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-projects:
-  title: Projects
-  intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
-
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
-
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+    
+  - name: CC Professional Business Etiquette – Dale Carnegie & Associates
+    start: 2024
+    end: 2024
+    organization: Công Ty Chứng Khoán SSI
+    credentialid:
+    credentialurl:
+    credentialname: Công Ty Chứng Khoán SSI
+    details: |
+    
+  - name: CC Phương pháp Nhận Biết Tài Liệu, Chứng Từ Giả Mạo
+    start: 2024
+    end: 2024
+    organization: Công Ty Chứng Khoán SSI
+    credentialid:
+    credentialurl:
+    credentialname: Công Ty Chứng Khoán SSI
+    details: |
 
 recommendations:
-  title: Recommendations
+  title: Thành Tựu
   list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
+  - person:
+    email: 
+    phone: 
+    role: 
     recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
+      Trưởng Phòng DVKH Tiêu Biểu PGD CMT8 Năm 2020
+  - person:
+    email: 
+    phone: 
+    role:
     recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
+      Ba Năm Liền Là Nhân Viên Xuất Sắc Của Phòng Giao Dịch 2022, 2023, 2024
 
 skills:
-  title: Skills &amp; Proficiency
+  title: Kỹ Năng
 
   toolset:
-  - name: Python & Django
+  - name: Lãnh đạo và quản lý đội nhóm
+    level: 100%
+
+  - name: Giao tiếp và xử lý tình huống khách hàng
+    level: 100%
+
+  - name: Hiểu biết sâu về sản phẩm chứng khoán, tài chính cá nhân
     level: 98%
 
-  - name: Javascript & jQuery
+  - name: Thành thạo CRM , Microsoft Office, phần mềm giao dịch chứng khoán
     level: 98%
 
-  - name: Angular
+  - name: Phân tích và cải tiến quy trình dịch vụ
     level: 98%
 
-  - name: HTML5 & CSS
-    level: 95%
-
-  - name: Ruby on Rails
-    level: 85%
-
-  - name: Sketch & Photoshop
-    level: 60%
-
-footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  - name: Cẩn thận, trung thực, có trách nhiệm trong công việc
+    level: 100%
