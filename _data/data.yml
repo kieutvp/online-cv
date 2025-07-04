@@ -97,7 +97,7 @@ experiences:
 certifications:
   title: Chứng Chỉ Nghề Nghiệp
   list:
-  - name: CC Hành nghề Chứng Khoán Cơ Bản
+  - name: Chứng Chỉ Hành Nghề Chứng Khoán
     start:
     end:
     organization: Ủy Ban Chứng Khoán Nhà Nước
@@ -106,7 +106,7 @@ certifications:
     credentialname: Ủy Ban Chứng Khoán Nhà Nước
     details: |
     
-  - name: CC Hành nghề Chứng Khoán Phái Sinh
+  - name: Chứng Chỉ Hành Nghề Chứng Khoán Phái Sinh
     start:
     end:
     organization: Ủy Ban Chứng Khoán Nhà Nước
@@ -115,7 +115,7 @@ certifications:
     credentialname: Ủy Ban Chứng Khoán Nhà Nước
     details: |
     
-  - name: CC Professional Business Etiquette – Dale Carnegie & Associates
+  - name: Chứng Chỉ Professional Business Etiquette – Dale Carnegie & Associates
     start:
     end:
     organization: Công Ty Chứng Khoán SSI
@@ -124,7 +124,7 @@ certifications:
     credentialname: Công Ty Chứng Khoán SSI
     details: |
     
-  - name: CC Phương pháp Nhận Biết Tài Liệu, Chứng Từ Giả Mạo
+  - name: Chứng Chỉ Phương Pháp Nhận Biết Tài Liệu, Chứng Từ Giả Mạo
     start:
     end:
     organization: Công Ty Chứng Khoán SSI
